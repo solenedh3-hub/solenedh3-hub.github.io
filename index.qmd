@@ -1,0 +1,31 @@
+---
+title: "Hello World"
+---
+
+## News
+
+### My website
+
+**This is my first website and it has the following pages:**
+
+- point1
+- point2
+  - point 2.1
+  - point 2.2
+  
+```{r, echo=FALSE}
+
+# Libraries
+library(ggplot2)
+
+# create data
+xValue <- 1:10
+yValue <- cumsum(rnorm(10))
+data <- data.frame(xValue,yValue)
+
+# Plot
+ggplot(data, aes(x=xValue, y=yValue)) +
+  geom_line()
+
+```
+

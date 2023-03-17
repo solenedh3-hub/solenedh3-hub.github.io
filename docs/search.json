@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "achievements.html",
+    "href": "achievements.html",
+    "title": "My Achievements",
+    "section": "",
+    "text": "Here are my achievements:\n\n1\n2\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "This is my first website and it has the following pages:\n\npoint1\npoint2\n\npoint 2.1\npoint 2.2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am …"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUCL"
+  }
+]

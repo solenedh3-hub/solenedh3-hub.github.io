@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute: 
+  freeze: true
+
+website:
+  title: "Solene"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - file: "./achievements.qmd"
+        text: Achievements
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/solene-dhanani/
+        
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,16 @@
+{
+  "hash": "7888ac78f406c590002606e96f4d8431",
+  "result": {
+    "markdown": "---\ntitle: \"Hello World\"\n---\n\n\n## News\n\n### My website\n\n**This is my first website and it has the following pages:**\n\n- point1\n- point2\n  - point 2.1\n  - point 2.2\n  \n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
